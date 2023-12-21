@@ -1,4 +1,4 @@
-<footer>
+        <footer>
             <div id="inner-footer" class="container">
                 <div id="footer-container">
                     <div class="footer-item">
@@ -60,6 +60,7 @@
             <script src="assets/js/dropdown.js"></script>
             <script src="https://cdn.ckeditor.com/ckeditor5/40.1.0/classic/ckeditor.js"></script>
             <script src="assets/js/ckeditor.js"></script>
+            <script src="assets/js/script.js"></script>
         </footer>
     </body>
 </html>
